@@ -98,16 +98,6 @@ Real-time **velocity**, **cycle detection**, **peer comparison**, and **anomaly 
 
 <div align="center">
 
-## 🖼️ Preview
-
-<img src="https://via.placeholder.com/1200x600/0b0b0e/fbbf24?text=TrustScore+Dashboard+Preview" width="100%" alt="TrustScore Dashboard" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 Quick Start
 
 </div>
@@ -428,20 +418,6 @@ copies of the Software.
 | 💡 Inspiration | 🎨 Design | 🏗️ Built For |
 |:---:|:---:|:---:|
 | Credit-invisible populations in emerging markets | Modern fintech dashboards | Hackathons & financial inclusion demos |
-
-</div>
-
----
-
-<div align="center">
-
-## 📬 Contact
-
-**Your Name**
-
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 </div>
 
